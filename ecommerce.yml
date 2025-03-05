@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: user_test_token_123456789123456789
+
+gateway:
+  ip: 10.81.96.190
